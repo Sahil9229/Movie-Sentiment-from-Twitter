@@ -20,10 +20,10 @@ library(janeaustenr)
 
 # code start
 # getting data from twitter
-consumer_key <-"wfNRPDTYJxNzhxqSmzZzse8YN"
-consumer_secret <-"OpSgG1kTOlIrMO1B5gdhNRznYIkwxuguTIVz6hHpCsipC3ZMz6"
-access_token <-"1043167617618403331-kDmdGsGDUaleo5eimYCpUvKcoDcD1y"
-access_token_secret <-"WasIvhXxz2NzfzNpAiKdvw5RZqhbn7DBxgUdalGh85vau"
+consumer_key <-""
+consumer_secret <-""               #twitter API keys  here 
+access_token <-""
+access_token_secret <-""
 
 accessURL="https://api.twitter.com/oauth/access_token"
 authURL="https://api.twitter.com/oauth/authorize"
